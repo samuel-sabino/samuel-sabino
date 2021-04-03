@@ -59,4 +59,4 @@
 
 ## Você pode me encontrar jogando algo aqui:
 
-[![Playstation Badge](https://img.shields.io/badge/samuelsabino__-%230070D1.svg?&style=for-the-badge&logo=Playstation&logoColor=white)](https://my.playstation.com/profile/Robert300loki)
+[![Playstation Badge](https://img.shields.io/badge/samuelsabino__-%230070D1.svg?&style=for-the-badge&logo=Playstation&logoColor=white)](https://my.playstation.com/profile/samuelsabino_)
