@@ -1,7 +1,5 @@
 # Samuel Sabino | Software Engineer
 
-<br>
-
 ### *Criando e corrigindo bugs da melhor forma possível.*
 
 <br>
@@ -11,8 +9,6 @@
   Atualmente focado no back-end, arrisco algo no lado front-end (mas não garanto nada haha). <br>
   Colecionador por hobby, amo jogos eletrônicos e puzzles no geral.
 </p>
-
-<br>
 
 ## Tecnologias e ferramentas que tenho conhecimento e experiência profissional.
 
@@ -42,8 +38,6 @@
   <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </div>
 
-<br>
-
 ---
 
 <br>
@@ -56,8 +50,6 @@
 
 </div>
 
-<br>
-
 ---
 
 <br>
@@ -67,11 +59,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/Samuel_Sabino-0072b1?style=for-the-badge&logo=Linkedin&logoColor=fff&labelColor=0072b1&link=https://www.linkedin.com/in/samuelsabino/)](https://www.linkedin.com/in/samuelsabino/)
 [![Gmail Badge](https://img.shields.io/badge/lima.samuel@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lima.samuel81@gmail.com)
 
-<br>
-
 ---
-
-<br>
 
 ## Você pode me encontrar jogando algo aqui:
 
