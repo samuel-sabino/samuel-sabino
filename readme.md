@@ -52,14 +52,10 @@
 
 ---
 
-<br>
-
 ## Se precisar entrar em contato comigo, tente por aqui:
 
 [![Linkedin Badge](https://img.shields.io/badge/Samuel_Sabino-0072b1?style=for-the-badge&logo=Linkedin&logoColor=fff&labelColor=0072b1&link=https://www.linkedin.com/in/samuelsabino/)](https://www.linkedin.com/in/samuelsabino/)
 [![Gmail Badge](https://img.shields.io/badge/lima.samuel@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lima.samuel81@gmail.com)
-
----
 
 ## Você pode me encontrar jogando algo aqui:
 
