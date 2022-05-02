@@ -50,6 +50,8 @@
 
 </div>
 
+![Snake animation](https://github.com/samuelsabino/samuelsabino/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## Se precisar entrar em contato comigo, tente por aqui:
