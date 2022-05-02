@@ -1,4 +1,4 @@
-# Samuel Sabino | Software Engineer
+# Samuel Sabino | Software Development Engineer
 
 ### *Criando e corrigindo bugs da melhor forma possível.*
 
